@@ -1,0 +1,14 @@
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\bin\Debug\Prelims-Zarate.exe.config
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\bin\Debug\Prelims-Zarate.exe
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\bin\Debug\Prelims-Zarate.pdb
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\bin\Debug\Prelims-Zarate.xml
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\obj\Debug\Prelims-Zarate.vbproj.AssemblyReference.cache
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\obj\Debug\Prelims_Zarate.frmSalesTaxApplication.resources
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\obj\Debug\Prelims_Zarate.Resources.resources
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\obj\Debug\Prelims-Zarate.vbproj.GenerateResource.cache
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\obj\Debug\Prelims-Zarate.vbproj.CoreCompileInputs.cache
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\obj\Debug\Prelims-Zarate.exe
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\obj\Debug\Prelims-Zarate.xml
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\obj\Debug\Prelims-Zarate.pdb
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\obj\Debug\Prelims_Zarate.frmGradingApplication.resources
+C:\Users\kyrgios\Desktop\Prelims-Zarate\Prelims-Zarate\obj\Debug\Prelims_Zarate.frmDollarToPesoConverter.resources
